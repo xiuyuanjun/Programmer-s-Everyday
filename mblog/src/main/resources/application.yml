@@ -65,7 +65,7 @@ logging:
 
 # site.options.theme: [default|classic]
 site:
-    version: 3.5.0
+    version: 2020.03.29
     location: ${user.dir}
     controls:
         # 注册开关

@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mtons.mblog</groupId>
 	<artifactId>mblog</artifactId>
-	<version>2020.03.22-SNAPSHOT</version>
+	<version>2020.03.29-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<properties>
